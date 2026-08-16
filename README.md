@@ -5,7 +5,4 @@ An end-to-end Machine Learning and MLOps pipeline that predicts vehicle insuranc
 Click the image below to explore the interactive dashboard tracking core KPIs and dynamic risk segmentation across 58,592 policies:
 
 Power BI Dashboard
-
-<title>Vehicle Insurance Claim Prediction Dashboard</title>
-Dynamic Risk Segmentation Dashboard
-<iframe title="Dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=cf776e8e-2517-42bc-a761-9096ae4c3ca4&autoAuth=true&ctid=f186bb51-c243-4048-b408-9b28a6e525ef" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGVlNTIzMDMtNTY3MC00ZTNkLWJhMTAtZTg4OGI5OWYyMDFmIiwidCI6ImYxODZiYjUxLWMyNDMtNDA0OC1iNDA4LTliMjhhNmU1MjVlZiJ9" frameborder="0" allowFullScreen="true"></iframe>
